@@ -82,7 +82,7 @@ const Hero = () => {
             </div>
 
             <div className="hero__buttons">
-              <a href='/resume.pdf' download
+              <a href='/resumeTR.pdf' download
                 className="hero__know-btn"
                 data-aos="fade-up"
                 data-aos-delay="1800"
