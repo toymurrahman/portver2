@@ -150,7 +150,7 @@ const Contact = () => {
                             </p>
 
                             <p className='contact__github'>
-                                <a href="https://github.com/jannat710" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faGithub} size="2x" /></a>
+                                <a href="https://github.com/lucifercoc" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faGithub} size="2x" /></a>
                             </p>
                         </div>
                     </div>
